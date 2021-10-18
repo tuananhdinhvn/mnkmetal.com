@@ -1,0 +1,13 @@
+@font-face {
+    font-family: UTMAvo;
+    src: url('http://localhost/tuananhdinh/public/font/UTMAvo.ttf');
+
+    font-family: UTMAvoBold;
+    src: url('http://localhost/tuananhdinh/public/font/UTMAvoBold.ttf');
+
+    font-family: UTMAvoBoldItalic;
+    src: url('http://localhost/tuananhdinh/public/font/UTMAvoBold_Italic.ttf');
+
+    font-family: UTMAvoItalic;
+    src: url('http://localhost/tuananhdinh/public/font/UTMAvoItalic.ttf');
+}

@@ -1,0 +1,111 @@
+.elementor-1397 .elementor-element.elementor-element-3c7b987 {
+    padding: 85px 0 90px;
+}
+.elementor-1397 .elementor-element.elementor-element-b444087 > .elementor-element-populated {
+    padding: 0;
+}
+.elementor-1397 .elementor-element.elementor-element-2ce7b45 > .elementor-element-populated {
+    padding: 0 15px;
+}
+.elementor-1397 .elementor-element.elementor-element-583f9da .gsc-image-content .box-content .title {
+    margin-bottom: 30px;
+}
+.elementor-1397 .elementor-element.elementor-element-077e4f6 > .elementor-element-populated {
+    padding: 0 15px;
+}
+.elementor-1397 .elementor-element.elementor-element-f07e30f .gsc-image-content .box-content .title {
+    margin-bottom: 30px;
+}
+.elementor-1397 .elementor-element.elementor-element-64c9c8c > .elementor-element-populated {
+    padding: 0 15px;
+}
+.elementor-1397 .elementor-element.elementor-element-d23727c .gsc-image-content .box-content .title {
+    margin-bottom: 30px;
+}
+.elementor-1397 .elementor-element.elementor-element-295578f > .elementor-element-populated {
+    padding: 0 15px;
+}
+.elementor-1397 .elementor-element.elementor-element-b579767 .gsc-image-content .box-content .title {
+    margin-bottom: 30px;
+}
+.elementor-1397 .elementor-element.elementor-element-ad6edbf > .elementor-element-populated {
+    padding: 0 15px;
+}
+.elementor-1397 .elementor-element.elementor-element-9bb9ada > .elementor-widget-container {
+    margin: 0;
+    padding: 0;
+}
+.elementor-1397 .elementor-element.elementor-element-4f33bc1c {
+    margin-top: 0;
+    margin-bottom: -60px;
+    padding: 0;
+}
+.elementor-1397 .elementor-element.elementor-element-3f8ecfc3:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap,
+.elementor-1397 .elementor-element.elementor-element-3f8ecfc3 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://gaviaspreview.com/wp/indutri/wp-content/uploads/2020/06/bg-2.jpg");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+.elementor-1397 .elementor-element.elementor-element-3f8ecfc3 > .elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0 15px;
+    padding: 78px 80px 80px;
+}
+.elementor-1397 .elementor-element.elementor-element-3f8ecfc3 > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1397 .elementor-element.elementor-element-2af8a00d .gsc-call-to-action .content-inner .cta-content {
+    max-width: 850px;
+}
+.elementor-1397 .elementor-element.elementor-element-2af8a00d .gsc-call-to-action .title {
+    color: #fff;
+    font-size: 38px;
+    margin-bottom: 5px;
+}
+.elementor-1397 .elementor-element.elementor-element-2af8a00d .gsc-call-to-action .sub-title {
+    margin-bottom: 5px;
+}
+.elementor-1397 .elementor-element.elementor-element-2af8a00d .gsc-call-to-action .desc {
+    margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+    .elementor-1397 .elementor-element.elementor-element-b444087 {
+        width: 67%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-ad6edbf {
+        width: 33%;
+    }
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+    .elementor-1397 .elementor-element.elementor-element-b444087 {
+        width: 60%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-2ce7b45 {
+        width: 100%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-077e4f6 {
+        width: 100%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-64c9c8c {
+        width: 100%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-295578f {
+        width: 100%;
+    }
+    .elementor-1397 .elementor-element.elementor-element-ad6edbf {
+        width: 40%;
+    }
+}
+@media (max-width: 1024px) {
+    .elementor-1397 .elementor-element.elementor-element-3c7b987 {
+        padding: 50px 0;
+    }
+    .elementor-1397 .elementor-element.elementor-element-3f8ecfc3 > .elementor-element-populated {
+        padding: 50px 30px;
+    }
+}
+@media (max-width: 767px) {
+    .elementor-1397 .elementor-element.elementor-element-3f8ecfc3 > .elementor-element-populated {
+        padding: 50px 20px;
+    }
+}
