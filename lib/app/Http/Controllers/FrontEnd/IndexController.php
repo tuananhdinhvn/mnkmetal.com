@@ -42,6 +42,10 @@ class IndexController extends Controller
         return view('frontend.about');
     }
 
+    public function getProduct(){
+        return view('frontend.product');
+    }
+
     public function getServices(){
         return view('frontend.services');
     }

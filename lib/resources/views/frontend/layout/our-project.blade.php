@@ -26,6 +26,7 @@
                                     <div class="align-center style-1 widget gsc-heading box-align-left">
                                         <div class="content-inner">
                                             <h2 class="title"><span>FEATURE PRODUCTS</span></h2>
+                                            <p>Automated tools management system / Smart cabinet</p>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>
@@ -41,9 +42,9 @@
                         <div class="swiper mySwiper">
                             <div class="swiper-wrapper">
 
-                                @for ($i = 1; $i <= 13; $i++)
+                                @for ($i = 1; $i <= 4; $i++)
                                     <div class="swiper-slide">
-                                        <img src="{{ asset('public/upload/product/'.$i.'.jpg') }}" />
+                                        <img src="{{ asset('public/upload/product/feature'.$i.'.PNG') }}" />
                                     </div>
                                 @endfor
                                 
@@ -53,7 +54,7 @@
                         </div>
 
                         <!-- Swiper JS -->
-                        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+                        <script src="{{ asset('js/swiper-bundle.min.js')}}"></script>
 
                         <!-- Initialize Swiper -->
                         <script>

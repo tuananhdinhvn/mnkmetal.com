@@ -5,18 +5,13 @@
         <meta name="apple-touch-fullscreen" content="yes" />
         <meta name="MobileOptimized" content="320" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link media="all" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_bcea989bf345cb0d2ad81e0ed677f8a5.css" rel="stylesheet" />
+        <link media="all" href="{{ asset('css/autoptimize_bcea989bf345cb0d2ad81e0ed677f8a5.css')}}" rel="stylesheet" />
         
         <link rel="shortcut icon" href="{{ asset('public/upload/info/favicon.png') }}">
 
         <title>About us | MNK METAL</title>
         <meta name="robots" content="noindex, nofollow" />
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-        <link rel="dns-prefetch" href="//s.w.org" />
-        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Feed" href="https://gaviaspreview.com/wp/indutri/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Comments Feed" href="https://gaviaspreview.com/wp/indutri/comments/feed/" />
-        <link rel="alternate" type="text/calendar" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; iCal Feed" href="https://gaviaspreview.com/wp/indutri/events/?ical=1" />
         <script type="text/javascript">
             window._wpemojiSettings = {
                 baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/",
@@ -78,9 +73,9 @@
                         (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)));
             })(window, document, window._wpemojiSettings);
         </script>
-        <link rel="stylesheet" id="elementor-post-8020-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css?ver=1630722534" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-612-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_4dac660b626725d6f771a77a819253c6.css?ver=1630722780" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-4818-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css?ver=1630722534" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-8020-css" href="{{ asset('css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-612-css" href="{{ asset('css/autoptimize_single_4dac660b626725d6f771a77a819253c6.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-4818-css" href="{{ asset('css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css')}}" type="text/css" media="all" />
         <link rel="stylesheet" id="indutri-fonts-css" href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&#038;display=swap&#038;subset" type="text/css" media="all" />
         <link
             rel="stylesheet"
@@ -89,24 +84,8 @@
             type="text/css"
             media="all"
         />
-        <script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="https://gaviaspreview.com/wp/indutri/wp-json/" />
-        <link rel="alternate" type="application/json" href="https://gaviaspreview.com/wp/indutri/wp-json/wp/v2/pages/612" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gaviaspreview.com/wp/indutri/xmlrpc.php?rsd" />
-        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gaviaspreview.com/wp/indutri/wp-includes/wlwmanifest.xml" />
-        <meta name="generator" content="WordPress 5.8.1" />
-        <meta name="generator" content="WooCommerce 5.6.0" />
-        <link rel="canonical" href="https://gaviaspreview.com/wp/indutri/about-page/" />
-        <link rel="shortlink" href="https://gaviaspreview.com/wp/indutri/?p=612" />
-        <script>
-            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
-        </script>
-        <meta name="tec-api-version" content="v1" />
-        <meta name="tec-api-origin" content="https://gaviaspreview.com/wp/indutri" />
-        <link rel="https://theeventscalendar.com/" href="https://gaviaspreview.com/wp/indutri/wp-json/tribe/events/v1/" />
-        <script>
-            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
-        </script>
+        <script type="text/javascript" src="{{ asset('js/jquery.min.js')}}" id="jquery-core-js"></script>
+      
         <noscript>
             <style>
                 .woocommerce-product-gallery {
@@ -314,153 +293,7 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-top-section elementor-element elementor-element-485fba25 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="485fba25"
-                                                            data-element_type="section"
-                                                        >
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-row">
-                                                                    <div
-                                                                        class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-55f03f50 column-style-top"
-                                                                        data-id="55f03f50"
-                                                                        data-element_type="column"
-                                                                        data-settings='{"background_background":"classic"}'
-                                                                    >
-                                                                        <div class="elementor-column-wrap elementor-element-populated">
-                                                                            <div class="elementor-widget-wrap">
-                                                                                <section
-                                                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-5d7c6549 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                                                    data-id="5d7c6549"
-                                                                                    data-element_type="section"
-                                                                                >
-                                                                                    <div class="elementor-container elementor-column-gap-default">
-                                                                                        <div class="elementor-row">
-                                                                                            <div
-                                                                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b38a84a top column-style-top"
-                                                                                                data-id="b38a84a"
-                                                                                                data-element_type="column"
-                                                                                            >
-                                                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div class="elementor-widget-wrap">
-                                                                                                        <div
-                                                                                                            class="elementor-element elementor-element-20c6fe9a elementor-widget elementor-widget-gva-counter"
-                                                                                                            data-id="20c6fe9a"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="gva-counter.default"
-                                                                                                        >
-                                                                                                            <div class="elementor-widget-container">
-                                                                                                                <div class="gva-element-gva-counter gva-element">
-                                                                                                                    <div class="widget milestone-block style-1">
-                                                                                                                        <div class="box-content">
-                                                                                                                            <div class="milestone-content">
-                                                                                                                                <div class="milestone-number-inner"><span class="milestone-number">808</span></div>
-                                                                                                                                <div class="milestone-text">Skilled Contractors</div>
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-58434b13 top column-style-top"
-                                                                                                data-id="58434b13"
-                                                                                                data-element_type="column"
-                                                                                            >
-                                                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div class="elementor-widget-wrap">
-                                                                                                        <div
-                                                                                                            class="elementor-element elementor-element-74075a91 elementor-widget elementor-widget-gva-counter"
-                                                                                                            data-id="74075a91"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="gva-counter.default"
-                                                                                                        >
-                                                                                                            <div class="elementor-widget-container">
-                                                                                                                <div class="gva-element-gva-counter gva-element">
-                                                                                                                    <div class="widget milestone-block style-1">
-                                                                                                                        <div class="box-content">
-                                                                                                                            <div class="milestone-content">
-                                                                                                                                <div class="milestone-number-inner"><span class="milestone-number">8400</span></div>
-                                                                                                                                <div class="milestone-text">Projects Completed</div>
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6daa7f6a top column-style-top"
-                                                                                                data-id="6daa7f6a"
-                                                                                                data-element_type="column"
-                                                                                            >
-                                                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div class="elementor-widget-wrap">
-                                                                                                        <div
-                                                                                                            class="elementor-element elementor-element-7aaf9d8c elementor-widget elementor-widget-gva-counter"
-                                                                                                            data-id="7aaf9d8c"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="gva-counter.default"
-                                                                                                        >
-                                                                                                            <div class="elementor-widget-container">
-                                                                                                                <div class="gva-element-gva-counter gva-element">
-                                                                                                                    <div class="widget milestone-block style-1">
-                                                                                                                        <div class="box-content">
-                                                                                                                            <div class="milestone-content">
-                                                                                                                                <div class="milestone-number-inner"><span class="milestone-number">560</span></div>
-                                                                                                                                <div class="milestone-text">Industries Served</div>
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-677e93ec top column-style-top"
-                                                                                                data-id="677e93ec"
-                                                                                                data-element_type="column"
-                                                                                            >
-                                                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div class="elementor-widget-wrap">
-                                                                                                        <div
-                                                                                                            class="elementor-element elementor-element-4d9e8614 elementor-widget elementor-widget-gva-counter"
-                                                                                                            data-id="4d9e8614"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="gva-counter.default"
-                                                                                                        >
-                                                                                                            <div class="elementor-widget-container">
-                                                                                                                <div class="gva-element-gva-counter gva-element">
-                                                                                                                    <div class="widget milestone-block style-1">
-                                                                                                                        <div class="box-content">
-                                                                                                                            <div class="milestone-content">
-                                                                                                                                <div class="milestone-number-inner"><span class="milestone-number">65000</span></div>
-                                                                                                                                <div class="milestone-text">satisfied clients</div>
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </section>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
+                                                       
                                                       
                                                         {{-- <section
                                                             class="elementor-section elementor-top-section elementor-element elementor-element-295bce99 elementor-section-boxed elementor-section-height-default elementor-section-height-default arrow_1_x_top arrow_1_y_left arrow_2_x_bottom arrow_2_y_right"
@@ -848,58 +681,7 @@
 
 
 
-        <div id="gva-overlay"></div>
-        <div id="gva-quickview" class="clearfix"></div>
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="blur-svg">
-            <defs>
-                <filter id="blur-filter"><feGaussianBlur stdDeviation="3"></feGaussianBlur></filter>
-            </defs>
-        </svg>
-        <script type="text/javascript">
-            window.RS_MODULES = window.RS_MODULES || {};
-            window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-            window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-            window.RS_MODULES.defered = false;
-            window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-            window.RS_MODULES.type = "compiled";
-        </script>
-        <script>
-            (function (body) {
-                "use strict";
-                body.className = body.className.replace(/\btribe-no-js\b/, "tribe-js");
-            })(document.body);
-        </script>
-        <script>
-            var tribe_l10n_datatables = {
-                aria: { sort_ascending: ": activate to sort column ascending", sort_descending: ": activate to sort column descending" },
-                length_menu: "Show _MENU_ entries",
-                empty_table: "No data available in table",
-                info: "Showing _START_ to _END_ of _TOTAL_ entries",
-                info_empty: "Showing 0 to 0 of 0 entries",
-                info_filtered: "(filtered from _MAX_ total entries)",
-                zero_records: "No matching records found",
-                search: "Search:",
-                all_selected_text: "All items on this page were selected. ",
-                select_all_link: "Select all pages",
-                clear_selection: "Clear Selection.",
-                pagination: { all: "All", next: "Next", previous: "Previous" },
-                select: { rows: { "0": "", _: ": Selected %d rows", "1": ": Selected 1 row" } },
-                datepicker: {
-                    dayNames: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-                    dayNamesShort: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                    dayNamesMin: ["S", "M", "T", "W", "T", "F", "S"],
-                    monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-                    monthNamesShort: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-                    monthNamesMin: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-                    nextText: "Next",
-                    prevText: "Prev",
-                    currentText: "Today",
-                    closeText: "Done",
-                    today: "Today",
-                    clear: "Clear",
-                },
-            };
-        </script>
+        
         <noscript>
             <style>
                 .lazyload {
@@ -911,7 +693,7 @@
             window.lazySizesConfig = window.lazySizesConfig || {};
             window.lazySizesConfig.loadMode = 1;
         </script>
-        <script async data-noptimize="1" src="https://gaviaspreview.com/wp/indutri/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.9.2"></script>
+        <script async data-noptimize="1" src="{{ asset('js/lazysizes.min.js')}}"></script>
         <script type="text/javascript">
             (function () {
                 var c = document.body.className;
@@ -919,9 +701,9 @@
                 document.body.className = c;
             })();
         </script>
-        <link rel="stylesheet" id="elementor-post-206-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_abbabcae3e6697d985fa7021d284c069.css?ver=1630722584" type="text/css" media="all" />
-        <script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
-        <script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+        <link rel="stylesheet" id="elementor-post-206-css" href="{{ asset('css/autoptimize_single_abbabcae3e6697d985fa7021d284c069.css')}}" type="text/css" media="all" />
+        <script type="text/javascript" src="{{ asset('js/regenerator-runtime.min.js')}}" id="regenerator-runtime-js"></script>
+        <script type="text/javascript" src="{{ asset('js/wp-polyfill.min.js')}}" id="wp-polyfill-js"></script>
         <script type="text/javascript" id="contact-form-7-js-extra">
             var wpcf7 = { api: { root: "https:\/\/gaviaspreview.com\/wp\/indutri\/wp-json\/", namespace: "contact-form-7\/v1" } };
         </script>
@@ -985,6 +767,6 @@
                 post: { id: 612, title: "About%20Us%20%E2%80%93%20Indutri%20%E2%80%93%20Industry%20%26%20Factory%20Business%20WordPress%20Theme", excerpt: "", featuredImage: false },
             };
         </script>
-        <script defer src="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/js/autoptimize_b0bc2be101bd9f81409b2a0d973c35ff.js"></script>
+        <script defer src="{{ asset('js/autoptimize_b0bc2be101bd9f81409b2a0d973c35ff.js')}}"></script>
     </body>
 </html>

@@ -2,10 +2,10 @@
 <meta name="apple-touch-fullscreen" content="yes" />
 <meta name="MobileOptimized" content="320" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link media="all" href="{{ asset('css/autoptimize_187e5e4511d2223931c094db91807dd4.css')}}" rel="stylesheet" />
+<link rel="shortcut icon" href="{{ asset('public/upload/info/favicon.png') }}" />
 
-<link rel="shortcut icon" href="{{ asset('public/upload/info/favicon.png') }}">
-
-<link media="all" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_187e5e4511d2223931c094db91807dd4.css" rel="stylesheet" />
 <title>MNK INDUSTRIAL MECHANICAL JOINT STOCK COMPANY</title>
 <meta name="robots" content="noindex, nofollow" />
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
@@ -16,7 +16,7 @@
         ext: ".png",
         svgUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/",
         svgExt: ".svg",
-        source: { concatemoji: "https:\/\/gaviaspreview.com\/wp\/indutri\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1" },
+        source: { concatemoji: "https:\/\/gaviaspreview.com\/wp\/indutri\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2" },
     };
     !(function (e, a, t) {
         var n,
@@ -42,10 +42,10 @@
                         return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039])
                             ? !1
                             : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) &&
-                                    !s(
-                                        [55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447],
-                                        [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]
-                                    );
+                                  !s(
+                                      [55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447],
+                                      [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]
+                                  );
                     case "emoji":
                         return !s([10084, 65039, 8205, 55357, 56613], [10084, 65039, 8203, 55357, 56613]);
                 }
@@ -65,37 +65,31 @@
                 a.addEventListener
                     ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1))
                     : (e.attachEvent("onload", n),
-                        a.attachEvent("onreadystatechange", function () {
-                            "complete" === a.readyState && t.readyCallback();
-                        })),
+                      a.attachEvent("onreadystatechange", function () {
+                          "complete" === a.readyState && t.readyCallback();
+                      })),
                 (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)));
     })(window, document, window._wpemojiSettings);
 </script>
-<link rel="stylesheet" id="elementor-post-8020-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css?ver=1630722534" type="text/css" media="all" />
-<link rel="stylesheet" id="elementor-post-5053-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_b11ae63da0fec820801bb508d4a76dba.css?ver=1630722633" type="text/css" media="all" />
-<link rel="stylesheet" id="elementor-post-5161-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_671dcd53a049551cf90d105306518bab.css?ver=1630722634" type="text/css" media="all" />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Hind&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-
-<script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
-<link rel="https://api.w.org/" href="https://gaviaspreview.com/wp/indutri/wp-json/" />
-<link rel="alternate" type="application/json" href="https://gaviaspreview.com/wp/indutri/wp-json/wp/v2/pages/5053" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gaviaspreview.com/wp/indutri/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gaviaspreview.com/wp/indutri/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 5.8.1" />
-<meta name="generator" content="WooCommerce 5.6.0" />
-<link rel="canonical" href="https://gaviaspreview.com/wp/indutri/home-3/" />
-<link rel="shortlink" href="https://gaviaspreview.com/wp/indutri/?p=5053" />
-
-<meta name="tec-api-version" content="v1" />
-<meta name="tec-api-origin" content="https://gaviaspreview.com/wp/indutri" />
-<link rel="https://theeventscalendar.com/" href="https://gaviaspreview.com/wp/indutri/wp-json/tribe/events/v1/" />
-
-
+<link rel="stylesheet" id="elementor-post-8020-css" href="{{ asset('css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css')}}" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-5053-css" href="{{ asset('css/autoptimize_single_b11ae63da0fec820801bb508d4a76dba.css')}}" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-5161-css" href="{{ asset('css/autoptimize_single_671dcd53a049551cf90d105306518bab.css')}}" type="text/css" media="all" />
+<link rel="stylesheet" id="indutri-fonts-css" href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&#038;display=swap&#038;subset" type="text/css" media="all" />
+<link
+    rel="stylesheet"
+    id="google-fonts-1-css"
+    href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBilbo+Swash+Caps%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8.2"
+    type="text/css"
+    media="all"
+/>
+<script type="text/javascript" src="{{ asset('js/jquery.min.js')}}" id="jquery-core-js"></script>
+<noscript>
+    <style>
+        .woocommerce-product-gallery {
+            opacity: 1 !important;
+        }
+    </style>
+</noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <script type="text/javascript">
     function setREVStartSize(e) {
@@ -149,28 +143,72 @@
     }
 </script>
 
-
 {{-- font awesome --}}
- <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <!-- Link Swiper's CSS -->
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<link rel="stylesheet" href="{{ asset('css/swiper-bundle.min.css')}}" />
 <style>
     .swiper {
-    width: 100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
 
     .swiper-slide {
-    background-position: center;
-    background-size: cover;
-    width: 300px;
-    height: 300px;
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
     }
 
     .swiper-slide img {
-    display: block;
-    width: 100%;
+        display: block;
+        width: 100%;
     }
+</style>
+
+<style>
+    .top-head-info {
+        color: #ff5316;
+    }
+    .top-info-text {
+        color: #000;
+        text-shadow: #fff;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 5px 7px 5px 5px;
+        position: relative;
+        top: 2px;
+    }
+    .text-upper-case {
+        text-transform: uppercase;
+    }
+    .link-a-menu {
+        color: #000 !important;
+    }
+    .link-a-menu:hover {
+        color: #ff5316 !important;
+    }
+</style>
+
+<style>
+    /* Custom scroll bar */
+    ::-webkit-scrollbar {
+        width: 10px;
+        border-radius: 10px;
+    }
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+        border-radius: 10px;
+    }
+    /* Custom scroll bar */
 </style>

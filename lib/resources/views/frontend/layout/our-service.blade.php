@@ -98,7 +98,7 @@
                                                     </div>
                                                     <div class="service-content">
                                                         <div class="content-inner">
-                                                            <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/bridge-construction/">Metal structures Production</a></h3>
+                                                            <h3 class="title"><a href="">Metal structures Production</a></h3>
                                                             
                                                         </div>
                                                     </div>
@@ -119,7 +119,7 @@
                                                     </div>
                                                     <div class="service-content">
                                                         <div class="content-inner">
-                                                            <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/power-energies/">Metal treatment and coating</a></h3>
+                                                            <h3 class="title"><a href="">Metal treatment and coating</a></h3>
                                                             
                                                         </div>
                                                     </div>
@@ -145,7 +145,7 @@
                                                     </div>
                                                     <div class="service-content">
                                                         <div class="content-inner">
-                                                            <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/chemical-research/">Specialized mechanical design</a></h3>
+                                                            <h3 class="title"><a href="">Specialized mechanical design</a></h3>
                                                             
                                                         </div>
                                                     </div>
@@ -166,7 +166,7 @@
                                                     </div>
                                                     <div class="service-content">
                                                         <div class="content-inner">
-                                                            <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/petrol-and-gas/">Installation of machinery and industrial</a></h3>
+                                                            <h3 class="title"><a href="">Installation of machinery and industrial</a></h3>
                                                             
                                                         </div>
                                                     </div>
@@ -200,7 +200,7 @@
                                                     <div class="service-content">
                                                         <div class="content-inner">
                                                             <h3 class="title">
-                                                                <a href="https://gaviaspreview.com/wp/indutri/service/mechanical-engineering/">Repair of machinery and equipment</a>
+                                                                <a href="">Repair of machinery and equipment</a>
                                                             </h3>
                                                             
                                                         </div>
@@ -258,7 +258,7 @@
                                                     </div>
                                                     <div class="service-content">
                                                         <div class="content-inner">
-                                                            <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/factory-construction/">Forging, stamping, pressing and rolling</a></h3>
+                                                            <h3 class="title"><a href="">Forging, stamping, pressing and rolling</a></h3>
                                                             
                                                         </div>
                                                     </div>

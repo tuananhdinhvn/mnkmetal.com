@@ -23,7 +23,10 @@ Route::group(['namespace' => 'FrontEnd', 'middleware' => 'locale'], function () 
     // Service
     Route::get('services', 'IndexController@getServices');
 
-    // Service
+    // Product
+    Route::get('product', 'IndexController@getProduct');
+
+    // Partners
     Route::get('partners', 'IndexController@getPartners');
 
     // Contact

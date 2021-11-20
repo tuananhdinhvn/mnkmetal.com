@@ -6,17 +6,13 @@
         <meta name="MobileOptimized" content="320" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link media="all" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_bf5d15a76e8548a52410070539c57dfb.css" rel="stylesheet" />
+        <link media="all" href="{{ asset('css/autoptimize_bf5d15a76e8548a52410070539c57dfb.css') }}" rel="stylesheet" />
         
         <link rel="shortcut icon" href="{{ asset('public/upload/info/favicon.png') }}">
         
         <title>Our services | MNK METAL</title>
         <meta name="robots" content="noindex, nofollow" />
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-        <link rel="dns-prefetch" href="//s.w.org" />
-        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Feed" href="https://gaviaspreview.com/wp/indutri/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Comments Feed" href="https://gaviaspreview.com/wp/indutri/comments/feed/" />
-        <link rel="alternate" type="text/calendar" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; iCal Feed" href="https://gaviaspreview.com/wp/indutri/events/?ical=1" />
         <script type="text/javascript">
             window._wpemojiSettings = {
                 baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/",
@@ -78,9 +74,9 @@
                         (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)));
             })(window, document, window._wpemojiSettings);
         </script>
-        <link rel="stylesheet" id="elementor-post-8020-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css?ver=1630722534" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-3124-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_dc92f76008f611994d5dc21466f6c7dd.css?ver=1630722885" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-4818-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css?ver=1630722534" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-8020-css" href="{{ asset('css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-3124-css" href="{{ asset('css/autoptimize_single_dc92f76008f611994d5dc21466f6c7dd.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-4818-css" href="{{ asset('css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css')}}" type="text/css" media="all" />
         <link rel="stylesheet" id="indutri-fonts-css" href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&#038;display=swap&#038;subset" type="text/css" media="all" />
         <link
             rel="stylesheet"
@@ -89,24 +85,8 @@
             type="text/css"
             media="all"
         />
-        <script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="https://gaviaspreview.com/wp/indutri/wp-json/" />
-        <link rel="alternate" type="application/json" href="https://gaviaspreview.com/wp/indutri/wp-json/wp/v2/pages/3124" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gaviaspreview.com/wp/indutri/xmlrpc.php?rsd" />
-        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gaviaspreview.com/wp/indutri/wp-includes/wlwmanifest.xml" />
-        <meta name="generator" content="WordPress 5.8.1" />
-        <meta name="generator" content="WooCommerce 5.6.0" />
-        <link rel="canonical" href="https://gaviaspreview.com/wp/indutri/services/" />
-        <link rel="shortlink" href="https://gaviaspreview.com/wp/indutri/?p=3124" />
-        <script>
-            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
-        </script>
-        <meta name="tec-api-version" content="v1" />
-        <meta name="tec-api-origin" content="https://gaviaspreview.com/wp/indutri" />
-        <link rel="https://theeventscalendar.com/" href="https://gaviaspreview.com/wp/indutri/wp-json/tribe/events/v1/" />
-        <script>
-            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
-        </script>
+        <script type="text/javascript" src="{{ asset('js/jquery.min.js')}}" id="jquery-core-js"></script>
+      
         <noscript>
             <style>
                 .woocommerce-product-gallery {
@@ -235,7 +215,7 @@
                                                                                                 <img
                                                                                                     width="950"
                                                                                                     height="870"
-                                                                                                    src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2017/03/portfolio-1.jpg"
+                                                                                                    src="{{ asset('public/upload/info/portfolio-1.jpg')}}"
                                                                                                     class="attachment-full size-full"
                                                                                                     alt=""
                                                                                                 />
@@ -244,7 +224,7 @@
                                                                                                 width="950"
                                                                                                 height="870"
                                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20950%20870%22%3E%3C/svg%3E"
-                                                                                                data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2017/03/portfolio-1.jpg"
+                                                                                                data-src="{{ asset('public/upload/info/portfolio-1.jpg')}}"
                                                                                                 class="lazyload attachment-full size-full"
                                                                                                 alt=""
                                                                                             />
@@ -356,7 +336,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-3-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-3-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -365,7 +345,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-3-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-3-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -394,7 +374,7 @@
                                                                                                             </div>
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
-                                                                                                                    <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/bridge-construction/">Metal structures Production</a></h3>
+                                                                                                                    <h3 class="title"><a href="">Metal structures Production</a></h3>
                                                                                                                    
                                                                                                                 </div>
                                                                                                             </div>
@@ -407,7 +387,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-2-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-2-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -416,7 +396,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-2-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-2-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -430,7 +410,7 @@
                                                                                                             </div>
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
-                                                                                                                    <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/power-energies/">Metal treatment and coating</a></h3>
+                                                                                                                    <h3 class="title"><a href="">Metal treatment and coating</a></h3>
                                                                                                                    
                                                                                                                 </div>
                                                                                                             </div>
@@ -443,7 +423,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-5-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-5-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -452,7 +432,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-5-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-5-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -471,7 +451,7 @@
                                                                                                             </div>
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
-                                                                                                                    <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/chemical-research/">Specialized mechanical design</a></h3>
+                                                                                                                    <h3 class="title"><a href="">Specialized mechanical design</a></h3>
                                                                                                                     
                                                                                                                 </div>
                                                                                                             </div>
@@ -484,7 +464,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-6-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-6-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -493,7 +473,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-6-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-6-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -507,7 +487,7 @@
                                                                                                             </div>
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
-                                                                                                                    <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/petrol-and-gas/">Installation of machinery and industrial</a></h3>
+                                                                                                                    <h3 class="title"><a href="">Installation of machinery and industrial</a></h3>
                                                                                                                    
                                                                                                                 </div>
                                                                                                             </div>
@@ -520,7 +500,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-1-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-1-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -529,7 +509,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-1-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-1-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -556,7 +536,7 @@
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
                                                                                                                     <h3 class="title">
-                                                                                                                        <a href="https://gaviaspreview.com/wp/indutri/service/mechanical-engineering/">Repair of machinery and equipment</a>
+                                                                                                                        <a href="">Repair of machinery and equipment</a>
                                                                                                                     </h3>
                                                                                                                   
                                                                                                                 </div>
@@ -570,7 +550,7 @@
                                                                                                                     <img
                                                                                                                         width="600"
                                                                                                                         height="500"
-                                                                                                                        src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-4-600x500.jpg"
+                                                                                                                        src="{{ asset('public/upload/info/service-4-600x500.jpg')}}"
                                                                                                                         class="attachment-medium size-medium wp-post-image"
                                                                                                                         alt=""
                                                                                                                     />
@@ -579,7 +559,7 @@
                                                                                                                     width="600"
                                                                                                                     height="500"
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20500%22%3E%3C/svg%3E"
-                                                                                                                    data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2018/01/service-4-600x500.jpg"
+                                                                                                                    data-src="{{ asset('public/upload/info/service-4-600x500.jpg')}}"
                                                                                                                     class="lazyload attachment-medium size-medium wp-post-image"
                                                                                                                     alt=""
                                                                                                                 />
@@ -629,7 +609,7 @@
                                                                                                             </div>
                                                                                                             <div class="service-content">
                                                                                                                 <div class="content-inner">
-                                                                                                                    <h3 class="title"><a href="https://gaviaspreview.com/wp/indutri/service/factory-construction/">Forging, stamping, pressing and rolling</a></h3>
+                                                                                                                    <h3 class="title"><a href="">Forging, stamping, pressing and rolling</a></h3>
                                                                                                                     
                                                                                                                 </div>
                                                                                                             </div>

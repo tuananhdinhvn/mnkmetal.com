@@ -6,12 +6,16 @@
         <meta name="MobileOptimized" content="320" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link media="all" href="{{ asset('css/autoptimize_bcea989bf345cb0d2ad81e0ed677f8a5.css')}}" rel="stylesheet" />
+        <link media="all" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_bcea989bf345cb0d2ad81e0ed677f8a5.css" rel="stylesheet" />
         <link rel="shortcut icon" href="{{ asset('public/upload/info/favicon.png') }}">
         
         <title>Contact us | MNK METAL</title>
         <meta name="robots" content="noindex, nofollow" />
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="//s.w.org" />
+        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Feed" href="https://gaviaspreview.com/wp/indutri/feed/" />
+        <link rel="alternate" type="application/rss+xml" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; Comments Feed" href="https://gaviaspreview.com/wp/indutri/comments/feed/" />
+        <link rel="alternate" type="text/calendar" title="Indutri - Industry &amp; Factory Business WordPress Theme &raquo; iCal Feed" href="https://gaviaspreview.com/wp/indutri/events/?ical=1" />
         <script type="text/javascript">
             window._wpemojiSettings = {
                 baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/",
@@ -73,9 +77,9 @@
                         (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)));
             })(window, document, window._wpemojiSettings);
         </script>
-        <link rel="stylesheet" id="elementor-post-8020-css" href="{{ asset('css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-8020-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_5b7fea9f8cfa5ef1047065c27161ee25.css?ver=1630722534" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-post-610-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_e9f3f24782d3cb55cbbc7f6f7a29ac14.css?ver=1630722798" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-4818-css" href="{{ asset('css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css')}}" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-4818-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_8defc19ba30cc698d08036f20482302a.css?ver=1630722534" type="text/css" media="all" />
         <link rel="stylesheet" id="indutri-fonts-css" href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&#038;display=swap&#038;subset" type="text/css" media="all" />
         <link
             rel="stylesheet"
@@ -84,7 +88,24 @@
             type="text/css"
             media="all"
         />
-        <script type="text/javascript" src="{{ asset('js/jquery.min.js')}}" id="jquery-core-js"></script>
+        <script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+        <link rel="https://api.w.org/" href="https://gaviaspreview.com/wp/indutri/wp-json/" />
+        <link rel="alternate" type="application/json" href="https://gaviaspreview.com/wp/indutri/wp-json/wp/v2/pages/610" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gaviaspreview.com/wp/indutri/xmlrpc.php?rsd" />
+        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gaviaspreview.com/wp/indutri/wp-includes/wlwmanifest.xml" />
+        <meta name="generator" content="WordPress 5.8.2" />
+        <meta name="generator" content="WooCommerce 5.6.0" />
+        <link rel="canonical" href="https://gaviaspreview.com/wp/indutri/contact-page/" />
+        <link rel="shortlink" href="https://gaviaspreview.com/wp/indutri/?p=610" />
+        <script>
+            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
+        </script>
+        <meta name="tec-api-version" content="v1" />
+        <meta name="tec-api-origin" content="https://gaviaspreview.com/wp/indutri" />
+        <link rel="https://theeventscalendar.com/" href="https://gaviaspreview.com/wp/indutri/wp-json/tribe/events/v1/" />
+        <script>
+            var ajaxurl = "https://gaviaspreview.com/wp/indutri/wp-admin/admin-ajax.php";
+        </script>
         <noscript>
             <style>
                 .woocommerce-product-gallery {

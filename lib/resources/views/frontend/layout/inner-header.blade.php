@@ -31,6 +31,8 @@
 
                                             <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('services') }}">Services</a></li>
 
+                                            <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('product') }}">Product</a></li>
+
                                             <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('partners') }}">Our partners</a></li>
                                             
                                             <li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-610 menu-item-620 text-upper-case">
@@ -147,6 +149,7 @@
                                     <div class="flex-menu-item current-menu"> <a href="{{ asset('/') }}">Home</a> </div>
                                     <div class="flex-menu-item current-menu"> <a href="{{ asset('about-us') }}">About us</a> </div>
                                     <div class="flex-menu-item current-menu"> <a href="{{ asset('services') }}">Services</a> </div>
+                                    <div class="flex-menu-item current-menu"> <a href="{{ asset('product') }}">Product</a> </div>
                                     <div class="flex-menu-item current-menu"> <a href="{{ asset('partners') }}">Partners</a> </div>
                                     <div class="flex-menu-item current-menu"> <a href="{{ asset('contact') }}">Contact</a> </div>
 

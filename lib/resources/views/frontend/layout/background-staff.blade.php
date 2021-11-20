@@ -203,7 +203,7 @@
                                         <img
                                             width="569"
                                             height="768"
-                                            src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2020/07/image-people.png"
+                                            src="{{ asset('public/upload/info/image-people.png')}}"
                                             class="attachment-full size-full"
                                             alt=""
                                         />
@@ -211,8 +211,7 @@
                                     <img
                                         width="569"
                                         height="768"
-                                        src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20569%20768%22%3E%3C/svg%3E"
-                                        data-src="https://gaviaspreview.com/wp/indutri/wp-content/uploads/2020/07/image-people.png"
+                                        data-src="{{ asset('public/upload/info/image-people.png')}}"
                                         class="lazyload attachment-full size-full"
                                         alt=""
                                     />

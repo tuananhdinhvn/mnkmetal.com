@@ -2,37 +2,20 @@
     window.lazySizesConfig = window.lazySizesConfig || {};
     window.lazySizesConfig.loadMode = 1;
 </script>
-<script async data-noptimize="1" src="https://gaviaspreview.com/wp/indutri/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.9.2"></script>
-<script type="text/javascript">
-    (function () {
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, "woocommerce-js");
-        document.body.className = c;
-    })();
-</script>
-<script type="text/javascript">
-    if (typeof revslider_showDoubleJqueryError === "undefined") {
-        function revslider_showDoubleJqueryError(sliderID) {
-            console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");
-            console.log("To fix this, you can:");
-            console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");
-            console.log("2. Find the double jQuery.js inclusion and remove it");
-            return "Double Included jQuery Library";
-        }
-    }
-</script>
+<script async data-noptimize="1" src="{{ asset('js/lazysizes.min.js')}}"></script>
+
 <link
     rel="preload"
     as="font"
     id="rs-icon-set-revicon-woff"
-    href="https://gaviaspreview.com/wp/indutri/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888"
+    href="{{ asset('font/revicons.woff')}}"
     type="font/woff"
     crossorigin="anonymous"
     media="all"
 />
-<link rel="stylesheet" id="elementor-post-206-css" href="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/css/autoptimize_single_abbabcae3e6697d985fa7021d284c069.css?ver=1630722584" type="text/css" media="all" />
-<script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
-<script type="text/javascript" src="https://gaviaspreview.com/wp/indutri/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<link rel="stylesheet" id="elementor-post-206-css" href="{{ asset('css/autoptimize_single_abbabcae3e6697d985fa7021d284c069.css')}}" type="text/css" media="all" />
+<script type="text/javascript" src="{{ asset('js/regenerator-runtime.min.js')}}" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="{{ asset('js/wp-polyfill.min.js')}}" id="wp-polyfill-js"></script>
 <script type="text/javascript" id="contact-form-7-js-extra">
     var wpcf7 = { api: { root: "https:\/\/gaviaspreview.com\/wp\/indutri\/wp-json\/", namespace: "contact-form-7\/v1" } };
 </script>
@@ -154,4 +137,4 @@
         window.RS_MODULES.checkMinimal();
     }
 </script>
-<script defer src="https://gaviaspreview.com/wp/indutri/wp-content/cache/autoptimize/js/autoptimize_27660bdf65eb48ececf924b3e0e1d260.js"></script>
+<script defer src="{{ asset('js/autoptimize_27660bdf65eb48ececf924b3e0e1d260.js')}}"></script>

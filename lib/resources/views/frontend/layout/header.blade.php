@@ -25,6 +25,8 @@
 
                                             <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('services') }}">Service</a></li>
 
+                                            <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('product') }}">Product</a></li>
+
                                             <li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('partners') }}">Our partners</a></li>
                                             
                                             <li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620 text-upper-case"><a href="{{ asset('contact') }}">Contact</a></li>
@@ -98,7 +100,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-widget-container">
-                                                            <ul class="elementor-icon-list-items elementor-inline-items">
+                                                            <ul class="elementor-icon-list-items elementor-inline-items row">
                                                                 <li class="elementor-icon-list-item elementor-inline-item">
                                                                     <a href="mailto:kieu.tran@mnkmetal.com">
                                                                         <i class="fa fa-lg fa-envelope top-head-info"></i><span class="top-info-text">kieu.tran@mnkmetal.com</span>
@@ -176,6 +178,8 @@
                                                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('about-us') }}" class="link-a-menu">About us</a></li>
 
                                                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('services') }}" class="link-a-menu">Services</a></li>
+
+                                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('product') }}" class="link-a-menu">Product</a></li>
                                                                            
                                                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129 text-upper-case"><a href="{{ asset('partners') }}" class="link-a-menu">Our partners</a></li>
 
